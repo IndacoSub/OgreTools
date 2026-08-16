@@ -1,0 +1,356 @@
+offset,name
+0x1E40,Bunshin Fein
+0x1EA0,Shippuu Dasshu
+0x1F00,Tatsumakisenpuu
+0x1F40,Iryuujon Bo
+0x1FA0,Dasshu Akuseru
+0x2000,Jigokuguruma
+0x2060,Hiito Takkuru
+0x20C0,Jiguzagu Supaaku
+0x2100,Tamanoripiero
+0x2140,Noroi
+0x21A0,Suupaa Arumaji
+0x2200,Dokugirinojutsu
+0x2240,Suupaa Sukyan
+0x22A0,Gorimuchuu
+0x2300,Buusuto Guraida
+0x2360,Zanzou
+0x23C0,Mogura Feinto
+0x2420,Kamaitachi
+0x2460,Monkii Taan
+0x24C0,Za Uooru
+0x2520,Deemon Katto
+0x2580,Kiraa Suraido
+0x25E0,Koiru Taan
+0x2620,Aasu Kueiku
+0x2680,Kuikku Dorou
+0x26E0,Kumonoito
+0x2740,Saikuron
+0x2780,Feiku Booru
+0x27E0,Kagenui
+0x2840,Shikofumi
+0x28A0,Hoon Torein
+0x2900,Harikeen Aroo
+0x2940,Supiningu Katto
+0x29A0,Suupaa Sukyan
+0x2A00,Onryou
+0x2A60,Dopperu Gengaa
+0x2AC0,Kagomekagome
+0x2B20,Haavesuto
+0x2B80,Sabakinotettsui
+0x2BE0,Inazumaotoshi
+0x2C40,Doragon Kurasshi
+0x2CA0,Tsuin Buusuto
+0x2CE0,Faia Torunee
+0x2D40,Hyakuretsushotsu
+0x2DA0,Inazuma 1gou
+0x2E00,Gureneedo Shotsu
+0x2E40,Desu Zoon
+0x2E80,Fantomu Shuu
+0x2EE0,Hooku Shotto
+0x2F40,Meteo Atakku
+0x2F80,Suneeku Shotto
+0x2FE0,Supiningu Shuu
+0x3040,Suiseishuuto
+0x30A0,Rooringu Kikku
+0x3100,Bunshinshuuto
+0x3160,Dainamaito Shu
+0x31C0,Patoriotto Shu
+0x3220,Supairaru Shotsu
+0x3260,Furiizu Shotto
+0x32A0,Taigaa Doraibu
+0x3300,Toruneedo Kyatsu
+0x3360,Goddo Hando
+0x33C0,Pawaa Shiirudo
+0x3420,Nekketsupanchi
+0x3480,Shuuto Poketto
+0x34E0,Yugamukuukan
+0x3540,Kauntaa Sutora
+0x35A0,Gooruzurashi
+0x3600,Toripuru Dife
+0x3660,Puresshaa Pan
+0x36C0,Tafunesu Burokku
+0x3720,Furupawaa Shiiru
+0x3780,Makiwarichoppu
+0x37E0,Tsumuji
+0x3840,Rokettokobushi
+0x38A0,Wairudo Kuroo
+0x3900,Giganto Uooru
+0x3960,Kogarashi
+0x39C0,Kiraa Bureedo
+0x3A20,Tsunamiuooru
+0x3A80,Bakuretsupanchi
+0x3AE0,Majin Za Han
+0x3B40,Mugennokabe
+0x3BA0,Sunoo Enjieru
+0x3BE0,Baabariannota
+0x3C40,Majin Za Han
+0x3CA0,Goddo Hando
+0x3D00,Gurando Kueiku
+0x3D60,Dezaato Sutoomu
+0x3DA0,Kurosu Doraibu
+0x3E00,Kamikakushi
+0x3E60,Saiko Shotto
+0x3EA0,Kondoru Daibu
+0x3F00,Ran Booru Ra
+0x3F40,Toraianguru Z
+0x3F80,Dokonjoubatsu
+0x3FE0,Rifurekuto Basuta
+0x4040,Kunfuu Heddo
+0x4080,Shain Doraibu
+0x40C0,Dibain Aroo
+0x4100,Bakku Toruneedo
+0x4160,Taazan Kikku
+0x41C0,Goddo Nouzu
+0x4200,Doragon Torunee
+0x4260,Tsuchidaruma
+0x42C0,Honoonokazamido
+0x4320,Inazuma Bureiku
+0x4360,Za Gyarakushii
+0x43A0,Kouteipengin 2go
+0x4400,Hebunzu Taimu
+0x4440,Jajji Suruu
+0x44A0,Dasshu Sutoomu
+0x44E0,Muunsaruto
+0x4520,Majikku
+0x4580,Za Fenikkusu
+0x45C0,Korodorashuuto
+0x4620,Daaku Toruneedo
+0x4680,Inazumaotoshi
+0x46E0,Inazuma Bureiku
+0x4720,Suniikingu Rei
+0x4780,Gureibu Sutoon
+0x47E0,Jibashirikaen
+0x4840,Aian Uooru
+0x48A0,Pawaa Chaaji
+0x4900,Shinkuuma
+0x4960,Uerukamu Bakku
+0x49C0,Rooringu Surai
+0x4A60,Sutoon Purizun
+0x4AC0,Mega Kueiku
+0x4B20,Bureedo Atakku
+0x4B60,Ushironoshoume
+0x4BC0,Ekusukaribaa
+0x4C20,Heru Faia
+0x4C60,Za Taifuun
+0x4CA0,Tatsumakiotoshi
+0x4D00,Sandaa Biisuto
+0x4D40,Taigaa Sutoomu
+0x4DA0,Doragon Sureiya
+0x4E00,Guradiusu Aa
+0x4E60,Kouteipengin 3go
+0x4EA0,Guran Fenriru
+0x4EE0,Oodin Soodo
+0x4F40,Hebun Doraibu
+0x4FA0,Sutoraiku Sanba
+0x5000,Za Baasu
+0x5040,Biggu Ban
+0x5080,Za Harikeen
+0x50E0,Megarodon
+0x5120,Paradin Sutora
+0x5180,Banana Shuuto
+0x51C0,Za Chuubu
+0x5200,Gan Shotto
+0x5240,Bakunetsusukuryu
+0x52A0,Miraaju Shuu
+0x5300,Pegasasu Shotto
+0x5360,Yunikoon Buusu
+0x53C0,Jietto Sutorii
+0x5420,Gurando Faia
+0x5480,Bureibu Shotto
+0x54E0,Etaanaru Buriza
+0x5520,Bakunetsusutoomu
+0x5560,Tsunami Buusuto
+0x55C0,Desu Zoon 2
+0x5600,Ji Aasu
+0x5660,Reinboo Ruupu
+0x56C0,Asutoro Bureiku
+0x5700,Tokachefu Bonba
+0x5760,Kunfuu Atakku
+0x57C0,Daburu Gureneedo
+0x5820,Kurukuru Heddo
+0x5880,Reboryuushon
+0x58C0,Abisegeri
+0x5920,Doragon Kyanon
+0x5980,Deyuaru Sutorai
+0x59C0,Urufu Rejiendo
+0x5A00,Kouteipengin 1go
+0x5A40,Roozu Supurasshi
+0x5AA0,Dokonjoukura
+0x5B00,Nihyakuretsusho
+0x5B60,Doragon Gurando
+0x5BC0,Torai Pegasasu
+0x5C00,Inazuma 1gouo
+0x5C60,Ganimede Puroton
+0x5CA0,Janpingu San
+0x5D00,Iiguru Basutaa
+0x5D60,Batafurai Dorii
+0x5DC0,Yunibaasu Burasu
+0x5E20,Gaia Bureiku
+0x5E80,Megane Kurasshu
+0x5EE0,Tsuin BuusutoF
+0x5F40,Daburu Toruneedo
+0x5FC0,Sekyuritei Sho
+0x6000,Suupaa Nova
+0x6040,Supeesu Pengin
+0x6080,Waibaan Kuratsu
+0x60C0,Waibaan Buriza
+0x6120,Kurosu Faia
+0x6180,Daaku Fenikku
+0x61C0,Toripuru Buusuto
+0x6220,Neo Gyarakushi
+0x6260,Asaruto Shuuto
+0x62C0,Goddo Bureiku
+0x6300,Megaton Heddo
+0x6360,Tsuutenkakushu
+0x63C0,Ryuuseiburee
+0x6420,Gunguniru
+0x6480,Atomikku Furea
+0x64E0,Noozan Inpaku
+0x6540,Faia Burizaa
+0x6580,Kurosu Faia
+0x65E0,Faia Burizaa
+0x6660,Kaosu Bureiku
+0x66A0,Asutoro Geeto
+0x6700,Daburu Joo
+0x6740,Efferu Dorai
+0x67A0,Suringu Shotto
+0x6800,Kaado Basutaa
+0x6840,KouteipenginX
+0x6880,Maboroshidoriburu
+0x68E0,Toumei Fein
+0x6940,Reppuu Dasshu
+0x69A0,Nininsankyaku
+0x6A00,Oorora Doriburu
+0x6A40,Hitoriwantsuu
+0x6AA0,Deyuaru Pasu
+0x6B00,Fuusen Gamu
+0x6B60,Purimadonna
+0x6BC0,Arumajiro Saaka
+0x6C20,Jajji Suruu 2
+0x6C80,Toripuru Dasshu
+0x6CE0,Raitoningu Aku
+0x6D40,Aikidou
+0x6DA0,Mogura Shaffuru
+0x6E00,Tatsumakidokugiri
+0x6E60,Waapu Doraibu
+0x6EC0,Meteo Shawaa
+0x6F20,Sazan Kurosukatsu
+0x6F80,Ribon Shawaa
+0x6FE0,Oouchiwa
+0x7020,Fureimu Beeru
+0x7080,Uootaa Beeru
+0x70C0,Kiraa Fiiruzu
+0x7120,Kangaruu Kikku
+0x7180,Narakuotoshi
+0x71E0,Shizaasu Bomu
+0x7240,Ji Ikarosu
+0x7300,Fuujinnomai
+0x7340,Biggu Kaado
+0x7380,Matadooru Fei
+0x73E0,Suupaa Erashiko
+0x7440,Ekoo Booru
+0x74A0,Raiaa Shotto
+0x7500,Ea Raido
+0x7540,Jajji Suruu 3
+0x75A0,Doggu Ran
+0x7600,U Booto
+0x7660,Urutora Muun
+0x76C0,Shuuteingu Su
+0x7720,Aisu Gurando
+0x7760,Bunshin Dife
+0x77C0,Burokku Saakasu
+0x7820,Hebii Beibii
+0x7880,Za Tawaa
+0x78E0,Foton Furasshi
+0x7940,Gurabiteishon
+0x79A0,Deyuaru Sutoomu
+0x7A00,Jaianto Supi
+0x7A60,Feiku Bonbaa
+0x7AC0,Borukeino Katto
+0x7B20,Suupaa Shikofumi
+0x7B80,Puranetto Shiiru
+0x7BE0,Shiguma Zoon
+0x7C40,Daburu Saikuron
+0x7C80,Noo Esukeipu
+0x7CE0,Fureimu Dansu
+0x7D40,Asuteroido Beru
+0x7DA0,Bodi Shiirudo
+0x7E00,Purofairu Zoo
+0x7E40,Mega Uooru
+0x7EA0,Roodoroora Tatsu
+0x7F00,Guddo Sumeru
+0x7F60,Igunaito Sutei
+0x7FC0,Hoeeru Gaado
+0x8000,Senpuujin
+0x8060,Maddo Ekusupure
+0x80C0,Furoozun Sutei
+0x8100,Rokku Uooruda
+0x8180,Paafekuto Ta
+0x81E0,Za Maunten
+0x8240,Jiguzagu Fureimu
+0x82A0,Goo Tou Hebu
+0x82E0,Goo Tou Heru
+0x8480,Mugen Za Han
+0x84E0,Dokonjoukya
+0x8540,Nekketsu Heddo
+0x85A0,Oorora Kaaten
+0x8600,Chabudaigaeshi
+0x8660,Kaenhousha
+0x86C0,Biisuto Fangu
+0x8720,Doriru Sumassha
+0x8780,Bunshin Burokku
+0x87E0,Ijigen Za Ha
+0x8840,Surasshu Neiru
+0x88A0,Deyuaru Sumasshi
+0x8900,Daburu Roketto
+0x8960,Hanafubuki
+0x89C0,Suwan Daibu
+0x8A20,Goddohando Tori
+0x8A80,Burakku Hooru
+0x8AE0,Seefutei Purote
+0x8B40,Waamu Hooru
+0x8BA0,Jikuunokabe
+0x8C00,Purokion Netto
+0x8C60,Seiginotekken
+0x8CC0,Baan Auto
+0x8D20,Aisu Burokku
+0x8D80,Ikarinotettsui
+0x8DE0,Tamashii Za Ha
+0x8E40,GoddohandoX
+0x8EA0,Maou Za Han
+0x8F00,Goddo Kyatchi
+0x8F60,Sutoomu Raidaa
+0x8FC0,Furasshu Appa
+0x9020,Daibakuhatsuhari
+0x9080,Gureeto Bariari
+0x90E0,Biggu Supaidaa
+0x9140,Garateiin
+0x91A0,Korosseo Gaado
+0x9200,Mirion Hanzu
+0x9260,Kapoeira Sunatsu
+0x92C0,Suteingaa
+0x9320,Shuuto Rappu
+0x9380,Kaado Purotekuto
+0x93E0,Hai Boruteeji
+0x9440,Omega Za Han
+0x94A0,Ereki Torappu
+0x9500,Hoorii Zoon
+0x9560,Ji Endo
+0x95C0,Niidoru Hanmaa
+0x96E0,RC Shuuto
+0x9740,X Burasuto
+0x9780,Goddo Kyanon
+0x97E0,Daaku Mataa
+0x9820,Shadou Rei
+0x9880,Makishimamu Fai
+0x98E0,Puraimu Rejien
+0x9940,Desu Rein
+0x99A0,Desu Supiaa
+0x99E0,Desu Bureiku
+0x9A40,Shadou Rei
+0x9A80,Tenkuuotoshi
+0x9AE0,Bunshin Desuzoo
+0x9B20,Bunshin Pengin
+0x9CE0,Enzeru Booru
+0x9D20,Debiru Booru
